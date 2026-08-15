@@ -1,6 +1,6 @@
 # Hello PR Practice
 
-A tiny smaple project for practicing the GitHub pull request workflow: fork/clone, branch, commit, and open a PR.
+A tiny sample project for practicing the GitHub pull request workflow: fork/clone, branch, commit, and open a PR.
 
 ## What's here
 
